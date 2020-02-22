@@ -7,3 +7,5 @@ WorkFlow.txt
 #ignore idea files
 .idea
 
+#ignore prove code
+src/main/java/prove
