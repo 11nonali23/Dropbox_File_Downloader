@@ -1,19 +1,16 @@
+# Project Title
+
+DROPBOX FILE DOWNLOADER
+
+##Warnings
+
 This project is intended for personal use, i am not responsibile for any damage to your machine.
 
 My intention was to make this application cross-operating-system but i have tried it only on Linux.
 
-This application won't save nothing of the data you give.
 
-DESCRIPTION:
+##Description
 
-To run the application properly you need to specify:
+This application will download on my local machine the dropbox files in the directory i specify. It also recursevly goes to every subDirectory and does the same.
 
-===>ACCESS_TOKEN to your dropbox account
-
-===>RELATIVE PATH to DROPBOX directory (EXAMPLE : university/operating system)
-
-===>RELATIVE PATH to LOCAL MACHINE (EXAMPLE: Desktop/university/op_System).
-MAKE SURE not to put the / or \ before the first directory
-
-
-This application will download on your local machine the dropbox files. It also recursevly goes to every subDirectory and does the same.
+After development i have created a jar and a bash file to run this program when i need.
