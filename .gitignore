@@ -1,0 +1,9 @@
+#ignore iml
+Dropbox_Downloader.iml
+
+#ignore own organization file
+WorkFlow.txt
+
+#ignore idea files
+.idea
+
